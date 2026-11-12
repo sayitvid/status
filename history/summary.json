@@ -24,17 +24,17 @@
     "url": "https://sayitvid.com/api/health",
     "icon": "https://sayitvid.com/favicon.ico",
     "slug": "health-and-services-api",
-    "status": "down",
-    "uptime": "94.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.38%",
-    "uptimeMonth": "94.30%",
-    "uptimeYear": "94.67%",
-    "time": 3918,
-    "timeDay": 7981,
-    "timeWeek": 5404,
-    "timeMonth": 4155,
-    "timeYear": 3918,
+    "status": "up",
+    "uptime": "93.64%",
+    "uptimeDay": "64.27%",
+    "uptimeWeek": "82.27%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "93.64%",
+    "time": 3854,
+    "timeDay": 5611,
+    "timeWeek": 5080,
+    "timeMonth": 4082,
+    "timeYear": 3854,
     "dailyMinutesDown": {
       "2026-10-26": 254,
       "2026-10-29": 432,
@@ -43,7 +43,7 @@
       "2026-10-31": 90,
       "2026-11-06": 693,
       "2026-11-07": 579,
-      "2026-11-12": 0
+      "2026-11-12": 515
     }
   }
 ]
