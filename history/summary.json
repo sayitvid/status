@@ -5,16 +5,16 @@
     "icon": "https://sayitvid.com/favicon.ico",
     "slug": "say-it-vid-web",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "99.53%",
-    "time": 2975,
-    "timeDay": 608,
-    "timeWeek": 786,
-    "timeMonth": 3294,
-    "timeYear": 2975,
+    "uptimeYear": "99.54%",
+    "time": 2916,
+    "timeDay": 566,
+    "timeWeek": 768,
+    "timeMonth": 3286,
+    "timeYear": 2916,
     "dailyMinutesDown": {
       "2026-10-26": 255
     }
@@ -24,17 +24,17 @@
     "url": "https://sayitvid.com/api/health",
     "icon": "https://sayitvid.com/favicon.ico",
     "slug": "health-and-services-api",
-    "status": "down",
-    "uptime": "94.13%",
-    "uptimeDay": "86.33%",
-    "uptimeWeek": "92.94%",
-    "uptimeMonth": "92.68%",
-    "uptimeYear": "94.13%",
-    "time": 4029,
-    "timeDay": 10553,
-    "timeWeek": 4905,
+    "status": "up",
+    "uptime": "93.07%",
+    "uptimeDay": "43.17%",
+    "uptimeWeek": "86.78%",
+    "uptimeMonth": "91.26%",
+    "uptimeYear": "93.07%",
+    "time": 3967,
+    "timeDay": 8053,
+    "timeWeek": 4909,
     "timeMonth": 4647,
-    "timeYear": 4029,
+    "timeYear": 3967,
     "dailyMinutesDown": {
       "2026-10-26": 254,
       "2026-10-29": 432,
@@ -44,7 +44,8 @@
       "2026-11-06": 693,
       "2026-11-07": 579,
       "2026-11-12": 515,
-      "2026-11-17": 197
+      "2026-11-17": 574,
+      "2026-11-18": 244
     }
   }
 ]
