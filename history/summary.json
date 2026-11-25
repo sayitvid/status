@@ -25,11 +25,11 @@
     "icon": "https://sayitvid.com/favicon.ico",
     "slug": "health-and-services-api",
     "status": "down",
-    "uptime": "92.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.33%",
-    "uptimeMonth": "88.57%",
-    "uptimeYear": "92.34%",
+    "uptime": "92.27%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "87.77%",
+    "uptimeMonth": "88.45%",
+    "uptimeYear": "92.27%",
     "time": 4283,
     "timeDay": 7956,
     "timeWeek": 5758,
@@ -47,7 +47,8 @@
       "2026-11-17": 574,
       "2026-11-18": 244,
       "2026-11-20": 494,
-      "2026-11-21": 683
+      "2026-11-21": 683,
+      "2026-11-25": 56
     }
   }
 ]
