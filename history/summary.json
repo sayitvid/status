@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 2539,
-    "timeDay": 940,
-    "timeWeek": 759,
-    "timeMonth": 1564,
-    "timeYear": 2539,
+    "time": 2503,
+    "timeDay": 805,
+    "timeWeek": 746,
+    "timeMonth": 1535,
+    "timeYear": 2503,
     "dailyMinutesDown": {
       "2026-10-26": 255
     }
@@ -24,17 +24,17 @@
     "url": "https://sayitvid.com/api/health",
     "icon": "https://sayitvid.com/favicon.ico",
     "slug": "health-and-services-api",
-    "status": "down",
-    "uptime": "89.91%",
+    "status": "up",
+    "uptime": "89.87%",
     "uptimeDay": "23.84%",
-    "uptimeWeek": "75.18%",
-    "uptimeMonth": "84.54%",
-    "uptimeYear": "89.91%",
-    "time": 4590,
-    "timeDay": 10436,
-    "timeWeek": 6916,
-    "timeMonth": 5870,
-    "timeYear": 4590,
+    "uptimeWeek": "74.93%",
+    "uptimeMonth": "84.48%",
+    "uptimeYear": "89.87%",
+    "time": 4553,
+    "timeDay": 8288,
+    "timeWeek": 6525,
+    "timeMonth": 5795,
+    "timeYear": 4553,
     "dailyMinutesDown": {
       "2026-10-26": 254,
       "2026-10-29": 432,
@@ -49,7 +49,8 @@
       "2026-11-20": 494,
       "2026-11-21": 683,
       "2026-11-25": 923,
-      "2026-11-27": 1100
+      "2026-11-27": 1100,
+      "2026-11-28": 26
     }
   }
 ]
